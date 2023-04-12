@@ -1,1 +1,1 @@
-My second readme 0x03-git
+It's time to code!
